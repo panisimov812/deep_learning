@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa1bd02-6c3c-441e-9bd1-2d931b485007" name="Changes" comment="first networks">
-      <change afterPath="$PROJECT_DIR$/lesson/logic/opredelenie_prioritetov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/logic/prisvoenie_znacheniy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/logic/proverka_usloviy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/logic/sravnenie_velichin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/math/matn_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/preobrazovanie_tipov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/networks/baseball_examples/forecasting_based_on_forecasts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/networks/prognozirovanie/prognoz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vectorMathematics/matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deep_lerarning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7fa1bd02-6c3c-441e-9bd1-2d931b485007" name="Changes" comment="lesson 1 - основы python">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson2/spiski/pop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/networks/Forecasting_based_on_forecasts.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/logic/ocenochnaya_logic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson2/spiski/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson2/spiski/list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +45,12 @@
       <recent name="$PROJECT_DIR$/vectorMathematics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lessons/lesson1" />
       <recent name="$PROJECT_DIR$/lesson/logic" />
       <recent name="$PROJECT_DIR$/networks/baseball_examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.preobrazovanie_tipov">
+  <component name="RunManager" selected="Python.list">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +64,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson2/spiski" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson2/spiski/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,27 +169,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson/preobrazovanie_tipov.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prisvoenie_znacheniy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson/math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson/logic/prisvoenie_znacheniy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list" />
         <item itemvalue="Python.preobrazovanie_tipov" />
         <item itemvalue="Python.opredelenie_prioritetov" />
         <item itemvalue="Python.sravnenie_velichin" />
         <item itemvalue="Python.ocenochnaya_logic" />
-        <item itemvalue="Python.prisvoenie_znacheniy" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683092333432</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson 1 - основы python">
+      <created>1683529148336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683529148336</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,7 +329,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first networks" />
-    <option name="LAST_COMMIT_MESSAGE" value="first networks" />
+    <MESSAGE value="lesson 1 - основы python" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 1 - основы python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
