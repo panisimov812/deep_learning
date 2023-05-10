@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa1bd02-6c3c-441e-9bd1-2d931b485007" name="Changes" comment="lesson 2 - работа со списками">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/spiski/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/vetvleniya/for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/vetvleniya/if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/vetvleniya/while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7fa1bd02-6c3c-441e-9bd1-2d931b485007" name="Changes" comment="lesson 2 - работа со списками" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +51,7 @@
       <recent name="$PROJECT_DIR$/networks/baseball_examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.for">
+  <component name="RunManager" selected="Python.vihod_iz_cikla">
     <configuration name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sravnenie_velichin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vihod_iz_cikla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson/math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson2/vetvleniya" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson/logic/sravnenie_velichin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson2/vetvleniya/vihod_iz_cikla.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.vihod_iz_cikla" />
         <item itemvalue="Python.for" />
         <item itemvalue="Python.while" />
         <item itemvalue="Python.if" />
         <item itemvalue="Python.dict" />
-        <item itemvalue="Python.sravnenie_velichin" />
       </list>
     </recent_temporary>
   </component>
