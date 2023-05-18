@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa1bd02-6c3c-441e-9bd1-2d931b485007" name="Changes" comment="lesson 2 - работа с картежами">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson3Func/args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson3Func/incomplete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson3Func/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson3Func/return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson3Func/scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson3Func/skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson3Func/try_exept/try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson3Func/yield.py" afterDir="false" />
+    <list default="true" id="7fa1bd02-6c3c-441e-9bd1-2d931b485007" name="Changes" comment="add assert.py">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson4Moduls/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson4Moduls/kitty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson4Moduls/prinadlejnost_imen/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson4Moduls/prinadlejnost_imen/fibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson4Moduls/prinadlejnost_imen/pooch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson4Moduls/sistemnieZaprosi/system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson4Moduls/tiger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_05_2023,_10_44_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_05_2023__10_44__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +64,8 @@
       <recent name="$PROJECT_DIR$/networks/baseball_examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.try">
-    <configuration name="incomplete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.system">
+    <configuration name="fibo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson3Func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson4Moduls/prinadlejnost_imen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson3Func/incomplete.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson4Moduls/prinadlejnost_imen/fibo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="kitty" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson3Func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson4Moduls" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson3Func/lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson4Moduls/kitty.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="skip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pooch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson3Func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson4Moduls/prinadlejnost_imen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson3Func/skip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson4Moduls/prinadlejnost_imen/pooch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson3Func/try_exept" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson4Moduls/sistemnieZaprosi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson3Func/try_exept/try.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson4Moduls/sistemnieZaprosi/system.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="yield" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tiger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson3Func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/lesson4Moduls" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson3Func/yield.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson4Moduls/tiger.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.try" />
-        <item itemvalue="Python.yield" />
-        <item itemvalue="Python.skip" />
-        <item itemvalue="Python.incomplete" />
-        <item itemvalue="Python.lambda" />
+        <item itemvalue="Python.system" />
+        <item itemvalue="Python.pooch" />
+        <item itemvalue="Python.fibo" />
+        <item itemvalue="Python.kitty" />
+        <item itemvalue="Python.tiger" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683531060090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add assert.py">
+      <created>1684384706687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684384706687</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,7 +263,8 @@
     <MESSAGE value="first networks" />
     <MESSAGE value="lesson 1 - основы python" />
     <MESSAGE value="lesson 2 - работа со списками" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 2 - работа со списками" />
+    <MESSAGE value="add assert.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add assert.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
